@@ -89,6 +89,7 @@ const char *last_name[] = {
     "Maurice",
     "McCarthy",
     "McLaughlin",
+    "McLovin",
     "Meadows",
     "Mendoza",
     "Meyer",
